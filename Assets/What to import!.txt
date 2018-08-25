@@ -1,0 +1,30 @@
+IF YOU'RE USING UNITY 5.2.2 or later:
+
+You will need to use the files in the Vectrosity 5 folder.
+
+If you want to use the DLL and are using Unity 5.2.2 or Unity 5.2.3, import the Vectrosity5-Unity5.2.2 package.
+
+If you want to use the DLL and are using Unity 5.3 or later, import the Vectrosity5-Unity5.3 package.
+
+If you want to use the source code, import the Vectrosity5Source package. This is only recommended if you want to make modifications to the code. The source works with Unity 5.2.2 and above.
+
+Note that you must only import ONE of the above packages! Also, make sure you only use files in the Vectrosity 5 folder; none of the other files will work with Vectrosity 5.
+
+If you want to import the Unity5Demos package, import one of the above packages first.
+
+If you want to import the TankZone5 package, import it into an empty project, since it includes project settings.
+
+-----
+
+
+IF YOU'RE USING UNITY 4.6 - UNITY 5.1:
+
+You should use the files in the Vectrosity 4 folder.
+
+If you want to use the DLL, import the Vectrosity4 package.
+
+If you want to use the source code, import the Vectrosity4Source package. This is only recommended if you want to make modifications to the code.
+
+Note that you must only import ONE of the above packages! Also, make sure you only use files in the Vectrosity 4 folder; none of the other files will work with Vectrosity 4.
+
+If you want to import the Unity4Demos package, import one of the above packages first.
